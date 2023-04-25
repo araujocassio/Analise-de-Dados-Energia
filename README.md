@@ -20,3 +20,8 @@ Este projeto oferece visualizações interativas para permitir que os usuários 
 
 # Contribuições
 Contribuições são bem-vindas e encorajadas! Para contribuir com o projeto, faça um fork deste repositório e envie um pull request com suas mudanças.
+
+![image](https://user-images.githubusercontent.com/98669544/234365669-b0d490b7-5dd2-46b9-896c-586baf550b17.png)
+![image](https://user-images.githubusercontent.com/98669544/234365754-08e4c585-6333-4adf-b156-482d98f14c00.png)
+![image](https://user-images.githubusercontent.com/98669544/234365822-68ea775b-f734-4319-8ded-193ddc52ac24.png)
+
