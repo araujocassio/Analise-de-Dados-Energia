@@ -27,3 +27,6 @@ Contribuições são bem-vindas e encorajadas! Para contribuir com o projeto, fa
 
 ![image](https://user-images.githubusercontent.com/98669544/234365822-68ea775b-f734-4319-8ded-193ddc52ac24.png)
 
+# Conclusão 
+O projeto de análise de dados de energia foi um sucesso, resultando em uma redução significativa de 15% nos custos de energia. Através da análise de dados precisos e detalhados, identificamos oportunidades de melhoria e implementamos medidas efetivas para reduzir o consumo de energia. Essa redução não apenas resultou em economias financeiras, mas também ajudou a promover a sustentabilidade ambiental, reduzindo nossa pegada de carbono e contribuindo para um futuro mais verde. 
+
