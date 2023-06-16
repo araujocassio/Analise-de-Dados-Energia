@@ -8,7 +8,7 @@ O objetivo principal deste projeto é fornecer uma análise abrangente dos dados
 - Calcular estatísticas descritivas importantes, como média, máximo, mínimo e desvio padrão do consumo de energia.
 - Identificar tendências e padrões sazonais no consumo de energia.
 - Gerar visualizações e gráficos interativos para representar os dados de forma clara e intuitiva.
-- Implementar modelos de aprendizado de máquina para prever o consumo de energia futuro.
+- 
 # Resultados Esperados
 Espera-se que este projeto forneça os seguintes resultados:
 
@@ -24,7 +24,7 @@ O projeto consiste em uma coleção de scripts e ferramentas para processar, ana
 - Limpeza e formatação: Os dados importados passam por um processo de limpeza e formatação para garantir sua integridade e qualidade.
 - Análise estatística: São geradas estatísticas descritivas, como média, máximo, mínimo e desvio padrão do consumo de energia. Além disso, podem ser realizadas análises de tendências e sazonalidade.
 - Visualizações: O projeto oferece uma variedade de gráficos e visualizações interativas, como gráficos de linha, barras ou pizza, para representar os padrões de consumo de energia.
-- Previsão de consumo: É possível implementar modelos de aprendizado de máquina para prever o consumo de energia futuro com base em dados históricos.
+
 # Tecnologias Utilizadas
 - Python: A linguagem de programação principal utilizada no projeto.
 - Pandas: Biblioteca para manipulação e análise de dados.
