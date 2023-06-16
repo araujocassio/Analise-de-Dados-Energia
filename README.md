@@ -8,7 +8,7 @@ O objetivo principal deste projeto é fornecer uma análise abrangente dos dados
 - Calcular estatísticas descritivas importantes, como média, máximo, mínimo e desvio padrão do consumo de energia.
 - Identificar tendências e padrões sazonais no consumo de energia.
 - Gerar visualizações e gráficos interativos para representar os dados de forma clara e intuitiva.
-- 
+
 # Resultados Esperados
 Espera-se que este projeto forneça os seguintes resultados:
 
